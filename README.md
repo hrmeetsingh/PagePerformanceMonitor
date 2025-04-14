@@ -1,6 +1,7 @@
 # Page Performance Monitor
 A Chrome extension that monitors webpage performance metrics including load times, script execution, and DOM statistics. 
-Note: This code is a part of a classroom program I am taking for showing the capabilities and functioning of chrome for Client-Side performance monitoring using browser extensions
+
+__Note__: This code is a part of a session I am delivering for showing the capabilities and functioning of chrome for Client-Side performance monitoring using browser extensions
 
 ## Features
 - Measures key performance metrics like total load time, DOM interactive time, and time to first byte
